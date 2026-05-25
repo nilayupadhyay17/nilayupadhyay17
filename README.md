@@ -27,6 +27,48 @@ Currently building productivity and learning-focused applications.
 - 📚 Interested in productivity, edtech, and AI-powered apps
 - 🎯 Goal: Become a strong full-stack engineer
 
+## 🧰 Tech Stack
+
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+## 📌 Featured Projects
+
+### 📝 MyTrello
+Task management application inspired by Trello.
+
+**Tech:** React, TypeScript, Appwrite, TailwindCSS
+
+- Drag & drop task management
+- Workspace & board organization
+- Modern responsive UI
+
+🔗 Live Demo: [Demo Link](#)
+🔗 Repository: [GitHub Repo](#)
+
+---
+
+### 📚 StudyMotion
+EdTech platform where instructors can upload courses and students can enroll.
+
+**Tech:** MERN Stack
+
+- Authentication & authorization
+- Video course management
+- Payment integration
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilayupadhyay17&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilayupadhyay17&layout=compact&theme=tokyonight)
+
+
 
 
 
