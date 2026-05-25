@@ -19,6 +19,15 @@ Full Stack Developer passionate about building modern web applications using Rea
 
 Currently building productivity and learning-focused applications.
 
+## 🚀 About Me
+
+- 💻 Building full-stack web applications
+- 🌱 Currently learning system design & scalable architectures
+- 🛠️ Tech stack: React, Next.js, Node.js, Express, MongoDB, PostgreSQL
+- 📚 Interested in productivity, edtech, and AI-powered apps
+- 🎯 Goal: Become a strong full-stack engineer
+
+
 
 
 
