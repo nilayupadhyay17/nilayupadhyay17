@@ -64,9 +64,22 @@ EdTech platform where instructors can upload courses and students can enroll.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilayupadhyay17&show_icons=true&theme=tokyonight)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilayupadhyay17&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilayupadhyay17&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilayupadhyay17&layout=compact&theme=tokyonight)-->
+
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilayupadhyay17&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilayupadhyay17&theme=tokyonight)
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/nilayupadhyay
+<!-- - Portfolio: -->
+- Email: nilayupadhyay.dev@gmail.com
+
+
 
 
 
