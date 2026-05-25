@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <!--
 **nilayupadhyay17/nilayupadhyay17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+# Hi there 👋 I'm Nilay Upadhyay
+
+Full Stack Developer passionate about building modern web applications using React, Next.js, Node.js, and TypeScript.
+
+Currently building productivity and learning-focused applications.
+
+
+
+
 
