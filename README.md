@@ -72,6 +72,7 @@ EdTech platform where instructors can upload courses and students can enroll.
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilayupadhyay17&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilayupadhyay17&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=nilayupadhyay17&color=blue)
 
 ## 🌐 Connect With Me
 
